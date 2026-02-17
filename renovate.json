@@ -23,6 +23,7 @@
       "groupName": "Terraform lockfile maintenance"
     },
     {
+      "matchManagers": ["npm"],
       "matchUpdateTypes": ["lockFileMaintenance", "patch"],
       "groupName": "normal and lockfile dep"
     }
